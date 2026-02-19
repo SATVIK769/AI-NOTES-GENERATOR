@@ -6,7 +6,7 @@ import { getCurrentUser } from './services/api'
 import { useDispatch, useSelector } from 'react-redux'
 import History from './pages/History'
 import Notes from './pages/Notes'
-import Pricing from './pages/pricing'
+import Pricing from './pages/Pricing'
 import PaymentSuccess from './pages/PaymentSuccess'
 import PaymentFailed from './pages/PaymentFailed'
 export const serverUrl = "https://ai-notes-generatorserver.onrender.com"
