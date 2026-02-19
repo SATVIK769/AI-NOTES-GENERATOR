@@ -9,7 +9,7 @@ import Notes from './pages/Notes'
 import Pricing from './pages/pricing'
 import PaymentSuccess from './pages/PaymentSuccess'
 import PaymentFailed from './pages/PaymentFailed'
-export const serverUrl = "http://localhost:8000"
+export const serverUrl = "https://ai-notes-generatorserver.onrender.com"
 
 
 function App() {
