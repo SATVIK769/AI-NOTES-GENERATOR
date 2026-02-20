@@ -56,7 +56,7 @@ function Footer() {
                     <ul className='space-y-2 text-sm'>
                         <li onClick={() => navigate("/auth")} className='text-gray-300 hover:text-white transition-colors'>SignIn</li>
                         <li onClick={handleSignOut} className='text-red-400 hover:text-red-300 transition-colors'>SignOut</li>
-                        <li className='text-gray-300 hover:text-white transition-colors'>support@examnotes.com</li>
+                        <li className='text-gray-300 hover:text-white transition-colors'>support@exnota.com</li>
                     </ul>
                 </div>
         
