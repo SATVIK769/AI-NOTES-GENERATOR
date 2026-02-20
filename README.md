@@ -45,7 +45,7 @@ npm start
 
 (Note: You will need to add your .env variables for MongoDB, Stripe, and AI keys)
 
-5. Setup Frontend
+3. Setup Frontend
    
 Bash
 cd client
