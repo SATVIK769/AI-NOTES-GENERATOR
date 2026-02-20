@@ -38,7 +38,7 @@ function Navbar() {
             <div className='flex items-center gap-3'>
                 <img src={logo} alt="examnotes" className='w-9 h-9' />
                 <span className='text-lg hidden md:block font-semibold text-white'>
-                    Exam Notes <span className='text-gray-400'>AI</span>
+                    ExNota <span className='text-gray-400'>AI</span>
                 </span>
             </div>
             <div className='flex items-center gap-6 relative'>

@@ -38,10 +38,10 @@ function Footer() {
                             '
                             style={{textShadow: "0 6px 18px rgba(0,0,0,0.4)"}}
                             >
-                                Exam Notes <span className='text-gray-400'>AI</span>
+                                ExNota <span className='text-gray-400'>AI</span>
                             </span>
                         </div>
-                        <p className='text-sm text-gray-300 max-w-sm'>ExamNotes AI helps students generate exam-focused notes, revision material, diagrams, and printable PDFs using AI.</p>
+                        <p className='text-sm text-gray-300 max-w-sm'>ExNota AI helps students generate exam-focused notes, revision material, diagrams, and printable PDFs using AI.</p>
                 </motion.div>
                 <div className='text-center'>
                     <h1 className='text-sm font-semibold text-white mb-4'>Quick Links</h1>
@@ -63,7 +63,7 @@ function Footer() {
             </div>
             <div className='my-6 h-px bg-white/10'/>
             <p className='text-center text-xs text-gray-500'>
-                © {new Date().getFullYear()} ExamNotes AI. ALL rights reserved.
+                © {new Date().getFullYear()} ExNota AI. ALL rights reserved.
 
             </p>
       
