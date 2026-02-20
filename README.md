@@ -31,17 +31,29 @@ AI: OpenAI / Gemini API
 1. Clone the Repo
 Bash
 git clone https://github.com/your-username/ExNota.git
-2. Setup Backend
+
+
+3. Setup Backend
+   
 Bash
+
 cd server
+
 npm install
+
 npm start
+
 (Note: You will need to add your .env variables for MongoDB, Stripe, and AI keys)
 
-3. Setup Frontend
+5. Setup Frontend
+   
 Bash
 cd client
+
 npm install
+
 npm start
+
+
 📩 Contact & Support
-Developed by [Your Name].
+Developed by Satvik Gupta.
